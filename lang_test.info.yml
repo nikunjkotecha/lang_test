@@ -1,0 +1,6 @@
+name: 'Lang Test'
+type: module
+description: 'Language Test for config install.'
+package: Custom
+version: VERSION
+core: 8.x

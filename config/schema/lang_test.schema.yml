@@ -1,0 +1,7 @@
+lang_test.settings:
+  type: config_object
+  label: 'Lang Test settings'
+  mapping:
+    value:
+      type: label
+      label: 'Value'
